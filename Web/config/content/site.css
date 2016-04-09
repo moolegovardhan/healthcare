@@ -1,0 +1,69 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+
+/* styles for validation helpers */
+.field-validation-error {
+    color: #b94a48;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+input.input-validation-error {
+    border: 1px solid #b94a48;
+}
+
+input[type="checkbox"].input-validation-error {
+    border: 0 none;
+}
+
+.validation-summary-errors {
+    color: #b94a48;
+}
+
+.validation-summary-valid {
+    display: none;
+}
+
+.nav-list{
+    margin-left: 10px;
+    cursor: hand;
+    width: 100%;
+    overflow-y: hidden;
+}
+
+.nav-list li{
+    width: 100%;
+}
+
+.nav-list li a{
+    width: 100%;
+}
+
+.titleLink{
+
+}
+
+.selectable{
+  border = 1px;
+}
+
+.selected{
+  background-color:blue;
+}
+
+.table-hover tbody tr:hover > td {
+    cursor: hand;
+    cursor: pointer;
+}

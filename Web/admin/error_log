@@ -1,0 +1,704 @@
+[22-Feb-2016 04:33:54 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:33:54 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:33:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[22-Feb-2016 04:33:55 Etc/GMT] PHP Notice:  Use of undefined constant active - assumed 'active' in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[22-Feb-2016 04:33:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 04:33:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 04:33:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 04:33:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 52
+[22-Feb-2016 04:33:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 55
+[22-Feb-2016 04:33:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 58
+[22-Feb-2016 04:33:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[22-Feb-2016 04:33:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[22-Feb-2016 04:33:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 72
+[22-Feb-2016 04:33:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 75
+[22-Feb-2016 04:33:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 04:33:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 04:33:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 04:33:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 04:33:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 88
+[22-Feb-2016 04:33:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 91
+[22-Feb-2016 04:33:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 94
+[22-Feb-2016 04:33:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 97
+[22-Feb-2016 04:33:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 99
+[22-Feb-2016 04:33:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 101
+[22-Feb-2016 04:33:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 103
+[22-Feb-2016 04:33:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 105
+[22-Feb-2016 04:33:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 107
+[22-Feb-2016 04:33:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 109
+[22-Feb-2016 04:33:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 111
+[22-Feb-2016 04:33:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 113
+[22-Feb-2016 04:33:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 115
+[22-Feb-2016 04:33:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 117
+[22-Feb-2016 04:33:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 119
+[22-Feb-2016 04:33:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 121
+[22-Feb-2016 04:33:59 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:33:59 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:34:08 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:34:08 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:39:47 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:39:47 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Notice:  Use of undefined constant active - assumed 'active' in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 52
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 55
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 58
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 72
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 75
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 88
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 91
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 94
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 97
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 99
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 101
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 103
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 105
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 107
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 109
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 111
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 113
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 115
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 117
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 119
+[22-Feb-2016 04:42:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 121
+[22-Feb-2016 04:42:40 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:42:40 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Notice:  Use of undefined constant active - assumed 'active' in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 52
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 55
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 58
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 72
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 75
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 88
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 91
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 94
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 97
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 99
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 101
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 103
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 105
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 107
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 109
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 111
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 113
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 115
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 117
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 119
+[22-Feb-2016 04:45:12 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 121
+[22-Feb-2016 04:45:19 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:45:19 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:45:33 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:45:33 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Notice:  Use of undefined constant active - assumed 'active' in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 52
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 55
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 58
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 72
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 75
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 88
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 91
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 94
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 97
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 99
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 101
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 103
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 105
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 107
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 109
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 111
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 113
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 115
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 117
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 119
+[22-Feb-2016 04:45:51 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 121
+[22-Feb-2016 04:50:33 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:50:33 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:50:34 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:50:34 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:50:35 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:50:35 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:50:35 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:50:35 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Notice:  Use of undefined constant active - assumed 'active' in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 52
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 55
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 58
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 72
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 75
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 88
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 91
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 94
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 97
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 99
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 101
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 103
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 105
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 107
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 109
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 111
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 113
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 115
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 117
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 119
+[22-Feb-2016 04:51:08 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 121
+[22-Feb-2016 04:51:28 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:51:28 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:51:39 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:51:39 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:52:51 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:52:51 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Notice:  Use of undefined constant active - assumed 'active' in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 52
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 55
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 58
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 72
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 75
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 88
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 91
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 94
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 97
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 99
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 101
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 103
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 105
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 107
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 109
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 111
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 113
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 115
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 117
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 119
+[22-Feb-2016 04:55:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 121
+[22-Feb-2016 04:55:24 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:55:24 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:55:48 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:55:48 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:55:53 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:55:53 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Notice:  Use of undefined constant active - assumed 'active' in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 52
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 55
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 58
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 72
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 75
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 88
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 91
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 94
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 97
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 99
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 101
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 103
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 105
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 107
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 109
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 111
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 113
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 115
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 117
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 119
+[22-Feb-2016 04:56:39 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 121
+[22-Feb-2016 04:56:43 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:56:43 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:57:32 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:57:32 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Notice:  Use of undefined constant active - assumed 'active' in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 52
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 55
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 58
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 72
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 75
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 88
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 91
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 94
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 97
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 99
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 101
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 103
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 105
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 107
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 109
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 111
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 113
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 115
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 117
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 119
+[22-Feb-2016 04:58:36 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 121
+[22-Feb-2016 04:58:41 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:58:41 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:59:01 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 04:59:01 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 05:00:40 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 05:00:40 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Notice:  Use of undefined constant active - assumed 'active' in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 52
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 55
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 58
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 72
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 75
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 88
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 91
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 94
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 97
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 99
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 101
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 103
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 105
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 107
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 109
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 111
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 113
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 115
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 117
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 119
+[22-Feb-2016 05:00:54 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 121
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Notice:  Use of undefined constant active - assumed 'active' in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 52
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 55
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 58
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 72
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 75
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 88
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 91
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 94
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 97
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 99
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 101
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 103
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 105
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 107
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 109
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 111
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 113
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 115
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 117
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 119
+[22-Feb-2016 05:06:55 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 121
+[22-Feb-2016 05:08:00 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 05:08:00 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Notice:  Use of undefined constant active - assumed 'active' in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 52
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 55
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 58
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 72
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 75
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 88
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 91
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 94
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 97
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 99
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 101
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 103
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 105
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 107
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 109
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 111
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 113
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 115
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 117
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 119
+[22-Feb-2016 05:25:58 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 121
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Notice:  Use of undefined constant active - assumed 'active' in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 52
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 55
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 58
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 72
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 75
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 88
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 91
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 94
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 97
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 99
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 101
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 103
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 105
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 107
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 109
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 111
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 113
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 115
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 117
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 119
+[26-Feb-2016 12:40:13 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 121
+[26-Feb-2016 12:40:20 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[26-Feb-2016 12:40:20 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[26-Feb-2016 12:40:49 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[26-Feb-2016 12:40:49 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Notice:  Use of undefined constant active - assumed 'active' in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 52
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 55
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 58
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 72
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 75
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 88
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 91
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 94
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 97
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 99
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 101
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 103
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 105
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 107
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 109
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 111
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 113
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 115
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 117
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 119
+[26-Feb-2016 13:22:45 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 121
+[26-Feb-2016 13:36:55 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[26-Feb-2016 13:36:55 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[26-Feb-2016 13:37:55 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[26-Feb-2016 13:37:55 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[26-Feb-2016 13:37:55 Etc/GMT] PHP Notice:  Undefined index: host in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 92
+[26-Feb-2016 13:37:55 Etc/GMT] PHP Notice:  Undefined index: rootNode in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 93
+[26-Feb-2016 13:39:47 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[26-Feb-2016 13:39:47 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[26-Feb-2016 13:41:10 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[26-Feb-2016 13:41:10 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Notice:  Use of undefined constant active - assumed 'active' in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 52
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 55
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 58
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 72
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 75
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 88
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 91
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 94
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 97
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 99
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 101
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 103
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 105
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 107
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 109
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 111
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 113
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 115
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 117
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 119
+[27-Feb-2016 04:42:46 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 121
+[27-Feb-2016 04:42:52 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[27-Feb-2016 04:42:52 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[27-Feb-2016 04:43:02 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[27-Feb-2016 04:43:02 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[27-Feb-2016 04:43:05 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[27-Feb-2016 04:43:05 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[27-Feb-2016 04:43:11 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[27-Feb-2016 04:43:11 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Notice:  Use of undefined constant active - assumed 'active' in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 52
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 55
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 58
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 72
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 75
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 88
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 91
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 94
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 97
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 99
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 101
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 103
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 105
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 107
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 109
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 111
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 113
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 115
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 117
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 119
+[27-Feb-2016 10:34:42 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 121
+[27-Feb-2016 10:34:48 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[27-Feb-2016 10:34:48 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[27-Feb-2016 10:35:33 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[27-Feb-2016 10:35:33 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Notice:  Use of undefined constant active - assumed 'active' in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 52
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 55
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 58
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 72
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 75
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 88
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 91
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 94
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 97
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 99
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 101
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 103
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 105
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 107
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 109
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 111
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 113
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 115
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 117
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 119
+[29-Feb-2016 04:35:14 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 121
+[29-Feb-2016 04:35:23 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[29-Feb-2016 04:35:23 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[29-Feb-2016 04:35:53 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[29-Feb-2016 04:35:53 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[29-Feb-2016 04:36:21 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[29-Feb-2016 04:36:21 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[29-Feb-2016 04:36:24 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[29-Feb-2016 04:36:24 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[01-Mar-2016 11:07:19 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[01-Mar-2016 11:07:19 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[01-Mar-2016 11:07:20 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[01-Mar-2016 11:07:20 Etc/GMT] PHP Notice:  Use of undefined constant active - assumed 'active' in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[01-Mar-2016 11:07:20 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[01-Mar-2016 11:07:20 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[01-Mar-2016 11:07:20 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[01-Mar-2016 11:07:20 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 52
+[01-Mar-2016 11:07:20 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 55
+[01-Mar-2016 11:07:20 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 58
+[01-Mar-2016 11:07:20 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[01-Mar-2016 11:07:20 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[01-Mar-2016 11:07:20 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 72
+[01-Mar-2016 11:07:20 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 75
+[01-Mar-2016 11:07:20 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[01-Mar-2016 11:07:20 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[01-Mar-2016 11:07:20 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[01-Mar-2016 11:07:20 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[01-Mar-2016 11:07:20 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 88
+[01-Mar-2016 11:07:20 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 91
+[01-Mar-2016 11:07:20 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 94
+[01-Mar-2016 11:07:20 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 97
+[01-Mar-2016 11:07:20 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 99
+[01-Mar-2016 11:07:20 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 101
+[01-Mar-2016 11:07:20 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 103
+[01-Mar-2016 11:07:20 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 105
+[01-Mar-2016 11:07:20 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 107
+[01-Mar-2016 11:07:20 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 109
+[01-Mar-2016 11:07:20 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 111
+[01-Mar-2016 11:07:20 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 113
+[01-Mar-2016 11:07:20 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 115
+[01-Mar-2016 11:07:20 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 117
+[01-Mar-2016 11:07:20 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 119
+[01-Mar-2016 11:07:20 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 121
+[01-Mar-2016 11:07:43 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[01-Mar-2016 11:07:43 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[01-Mar-2016 11:08:11 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[01-Mar-2016 11:08:11 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[01-Mar-2016 11:08:18 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[01-Mar-2016 11:08:18 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[01-Mar-2016 11:57:11 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[01-Mar-2016 11:57:11 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[01-Mar-2016 11:57:14 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[01-Mar-2016 11:57:14 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Notice:  Use of undefined constant active - assumed 'active' in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 42
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 45
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 52
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 55
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 58
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 65
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 72
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 75
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 82
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 88
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 91
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 94
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminheader.php on line 97
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 99
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 101
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 103
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 105
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 107
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 109
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 111
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 113
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 115
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 117
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 119
+[02-Mar-2016 05:26:18 Etc/GMT] PHP Notice:  Undefined index: page in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Web/admin/adminindex.php on line 121
+[02-Mar-2016 05:26:51 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[02-Mar-2016 05:26:51 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[02-Mar-2016 05:27:31 Etc/GMT] PHP Warning:  include_once(Logging.php): failed to open stream: No such file or directory in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
+[02-Mar-2016 05:27:31 Etc/GMT] PHP Warning:  include_once(): Failed opening 'Logging.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/cgsgrbtc/public_html/cgshealthcare.com/HealthCareSystem/Business/BusinessHSMDatabase.php on line 15
